@@ -7,7 +7,7 @@ public class FullList<E>
       Node prev;
             
       public Node(E element)
-      {
+      {::/;
          this.element = element;
       }
    }
